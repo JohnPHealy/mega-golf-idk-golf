@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/TestGolf.unity
-    guid: be2ebc8b254d5a34bb09e59d579c943a
-  - enabled: 0
-    path: Assets/Scenes/Level1.unity
-    guid: 54fab7d0fa5c7e348aaa7b615b7da892
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/IDK golf 1.unity
-    guid: 99ff6328d1221e94e86a6bf9cd57229c
+    path: Assets/Scenes/IDK golf CH1.unity
+    guid: d51bbbeec7f10a34ea3f990a98c4fed6
+  - enabled: 1
+    path: Assets/Scenes/IDK golf CH2.unity
+    guid: d7f9c70491b48104b9a6664cb32aa76e
   m_configObjects: {}
